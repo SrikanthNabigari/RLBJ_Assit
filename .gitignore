@@ -1,0 +1,6 @@
+# .gitignore
+
+# Ignore the trained_models directory and its contents
+trained_models/
+models/
+data/
